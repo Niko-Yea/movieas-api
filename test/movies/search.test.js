@@ -1,6 +1,6 @@
 const moviesService = require('../../services/movies');
 
-describe('Search', () => {
+describe('Search movies', () => {
   let duration;
   let genres;
   beforeEach(() => {
